@@ -1,0 +1,18 @@
+[submodule "Plat4m_Core"]
+	path = Plat4m_Core
+	url = https://github.com/bminerd/Plat4m_Core.git
+[submodule "Plat4m_Controls"]
+	path = Plat4m_Controls
+	url = https://github.com/bminerd/Plat4m_Controls.git
+[submodule "Plat4m_Math"]
+	path = Plat4m_Math
+	url = https://github.com/bminerd/Plat4m_Math.git
+[submodule "Plat4m_Robotics"]
+	path = Plat4m_Robotics
+	url = https://github.com/bminerd/Plat4m_Robotics.git
+[submodule "Plat4m_Gui"]
+	path = Plat4m_Gui
+	url = https://github.com/bminerd/Plat4m_Gui.git
+[submodule "Plat4m_Examples"]
+	path = Plat4m_Examples
+	url = https://github.com/bminerd/Plat4m_Examples.git
